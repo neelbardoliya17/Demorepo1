@@ -1,8 +1,10 @@
 import java.util.*;
-class pro1
+class pro2
 {
     public static void main(String args[])
     {
-        System.out.println("hell neel");
+        int a=9;
+        int b=10;
+        System.out.println(a+b);
     }
 }
